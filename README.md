@@ -13,7 +13,7 @@ Refer to me by any pronouns.
 You can contact me on my telegram, demigodbunni
 I'm the owner of the [CinnaButterscotchOSS](https://github.com/CinnaButterscotchOSS) organization.
 
-「いやだ。こわれるもんか。」(Me, break?... like hell i will! I REFUSE!
+「いやだ。こわれるもんか。」(Me, break?... like hell i will! I REFUSE!)
 - Undertale (Japanese language)
 <!--
 **cinnamonbunni/cinnamonbunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
