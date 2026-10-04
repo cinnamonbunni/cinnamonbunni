@@ -1,10 +1,12 @@
 ## Greetings.
 My name is Clover.
 I'm a Android Custom ROM device maintainer.
+
 I officially maintain:
 - [The Halcyon Project](https://hlcyn.org) for guam
 - [HaloUI](https://github.com/HaloUI-AOSP) for guam (haven't builded yet)
-I unofficially maintain
+
+I unofficially maintain:
 - [crdroid](https://crdroid.net/) for tanzanite
 - [LineageOS](https://lineageos.org/) for tanzanite
 Refer to me by any pronouns.
